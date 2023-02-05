@@ -1,0 +1,6 @@
+.profile:hover {
+  background-color: black;
+  padding-right: 3rem;
+  color: white;
+  border-radius: 2rem;
+}
